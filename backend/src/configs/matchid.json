@@ -1,0 +1,45 @@
+{
+    "matches": [{
+        "id": 6664675599,
+        "radiant": "Gin2Nic",
+        "dire": "MeowGarita",
+        "type": "groupstage",
+        "date": "1657990800",
+        "match_number": 1
+    }, {
+        "id": 6664784579,
+        "radiant": "Gin2Nic",
+        "dire": "MeowGarita",
+        "type": "groupstage",
+        "date": "1657995540",
+        "match_number": 2
+    }, {
+        "id": 6664892558,
+        "radiant": "Old Monks",
+        "dire": "TullyCom",
+        "type": "groupstage",
+        "date": "1658000880",
+        "match_number": 3
+    }, {
+        "id": 6664984948,
+        "radiant": "Old Monks",
+        "dire": "TullyCom",
+        "type": "groupstage",
+        "date": "1658005860",
+        "match_number": 4
+    }, {
+        "id": 6666362139,
+        "radiant": "TullyCom",
+        "dire": "Jai Sri Rum!!",
+        "type": "groupstage",
+        "date": "1658079960",
+        "match_number": 5
+    }, {
+        "id": 6666467535,
+        "radiant": "TullyCom",
+        "dire": "Jai Sri Rum!!",
+        "type": "groupstage",
+        "date": "1658085060",
+        "match_number": 6
+    }]
+}

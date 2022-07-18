@@ -1,0 +1,28 @@
+{
+  "name": "rvdl-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshilverma/rvdl.git"
+  },
+  "author": "Akshil Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshilverma/rvdl/issues"
+  },
+  "homepage": "https://github.com/akshilverma/rvdl#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
